@@ -1,8 +1,8 @@
 # Film Sitesi Oluşturma
--Bu proje, HTML, CSS ve JavaScript kullanılarak bir film sitesi oluşturmayı amaçlamaktadır. Bu site, kullanıcılara farklı filmler hakkında bilgi verir ve API fetch yöntemiyle verileri alır.
+- Bu proje, HTML, CSS ve JavaScript kullanılarak bir film sitesi oluşturmayı amaçlamaktadır. Bu site, kullanıcılara farklı filmler hakkında bilgi verir ve API fetch yöntemiyle verileri alır.
 
 
-### Özellikler
+### İçerik
 
 - Bu film sitesi aşağıdaki özelliklere sahiptir:
 
